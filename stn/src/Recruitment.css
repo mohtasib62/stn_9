@@ -1,0 +1,171 @@
+.hame {
+    background-color: #FDAD22;
+    color: black;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+}
+
+.hamne {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: x-large;
+    font-weight: 400;
+}
+
+.hamna {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: x-large;
+    font-weight: 400;
+}
+
+.forms-one {
+    border: 2px solid black;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: grid;
+}
+
+.forms-one > h2 {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.flak {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 900;
+}
+
+.flaki {
+    display: grid;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.flake {
+    display: grid;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.lali {
+    width: 450px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.kali {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 900;
+}
+
+.kalo {
+    display: grid;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.kale {
+    display: grid;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.gru {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 900;
+}   
+
+.gri {
+    display: grid;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.lalo {
+    width: 450px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 80px;
+}
+
+.qi {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 900;
+}
+
+.qo {
+    display: grid;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.qe {
+    display: grid;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.pi {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 900;
+    display: grid;
+    justify-content: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: xx-large;
+}
+
+.pe {
+    display: flex;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: xx-large;
+    font-weight: 100;
+}
+
+.kafe {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.jobis {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 900;
+    display: grid;
+    justify-content: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: xx-large;
+}
+
+.jobes {
+    display: flex;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: xx-large;
+    font-weight: 100;
+}
+
+.boo {
+    background-color: darkblue;
+    color: white;
+    height: 60px;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 900px;
+    border-radius: 40px;
+}

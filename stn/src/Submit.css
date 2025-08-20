@@ -1,0 +1,19 @@
+.submit {
+    text-align: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #f2f2f2;
+    color: black;
+    margin-top: 10px;
+}
+
+.submit > h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.submit > h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

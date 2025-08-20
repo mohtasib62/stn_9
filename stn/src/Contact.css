@@ -1,0 +1,50 @@
+.contact > h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: black;
+    background-color: #FDAD22;
+}
+
+.contact > h2 {
+    font-weight: 100;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pol {
+    color: black;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+.pol > h2 { 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 100;
+}
+
+.pmk {
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 30px;
+}
+
+.pol > h3 {
+    font-weight: 100;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.lqi {
+    color: blue;
+}
+.lqi:hover {
+    text-decoration: black;
+}
+

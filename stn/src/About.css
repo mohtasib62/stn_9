@@ -1,0 +1,119 @@
+.security {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: black;
+    background-color: #FDAD22;
+    font-size: xx-large;
+}
+
+.our {
+    height: 100px;
+    width: 100%;
+    background-color: #f2f2f2;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+
+.imgtext {
+    display: flex;
+    flex-direction: column;
+    justify-items: right;
+}
+
+.img {
+    height: 500px;
+    width: 100%;
+}
+
+.text {
+    background-color: #0b0036;
+    color: white;
+    height: 500px;
+    width: 50%;
+    justify-content: space-evenly;
+
+}
+
+.banner {
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.our-mission {
+    font-size: xx-large;
+    color: #FDAD22;
+    margin-left: 10px;
+    justify-items: center;
+    display: flex;
+    padding-top: 15px;
+}
+
+.p {
+    margin-top: 50px;
+    margin-left: 10px;
+    font-size: x-large;
+    color: black;
+}
+
+.content {
+    background-color: #f2f2f2;
+    color: black;
+    height: 750px;
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.bespoke {
+    margin-left: 15px;
+    font-weight: 800;
+    padding-top: 30px;
+    font-size: xx-large;
+}
+
+.bespoke-text {
+    font-size: x-large;
+    margin-top: 50px;
+    margin-left: 15px;
+}
+
+.touch {
+    color: black;
+    background-color: #f2f2f2;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.quote {
+    font-size: xx-large;
+    font-weight: lighter;
+    padding-top: 40px;
+}
+
+
+.si {
+    height: 50px;
+    width: 150px;
+    color: #ffff;
+    background-color: #FDAD22;
+    margin-top: 40px;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 560px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
